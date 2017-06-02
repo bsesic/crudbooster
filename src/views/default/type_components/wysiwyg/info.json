@@ -1,6 +1,6 @@
 {
-	"title":"Wysiwyg Input",
-	"type":"wysiwyg",
+	"title":"Tinymce Input",
+	"type":"tinymce",
 	"attribute":{
 		"optional":{
 			"style":"string inline stylesheet",
